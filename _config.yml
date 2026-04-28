@@ -22,9 +22,9 @@ author: Lee Hana
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+    - Github: "https://github.com/LeEHaNa1"
+    - Tistory: "https://forget-me-not-0.tistory.com"
+  #Author'S HOME: "https://deanattali.com"
 
 ################
 # --- Logo --- #
